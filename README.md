@@ -19,4 +19,4 @@ Javascript
 ### Lessons Learned in the Assignment:
 1. Javascript
 2. Document Handling
-3. Event Listeners
+3. Event Listeners# lesson6_javascript3
