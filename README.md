@@ -13,8 +13,7 @@ Robert Blake
 Javascript
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/rob3rtblake/lesson6_javascript3
 
 ### Lessons Learned in the Assignment:
 1. Javascript
